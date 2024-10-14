@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi there! I’m @Aman Kumar, a passionate Software developer based in New Delhi. I love building Full Stack web applications and exploring new technologies.<br><br>🔧 Technologies & Tools<br>Languages: C, C++, JavaScript .<br>Frameworks: React, Node.js, Express.js .<br>Tools: BootsTrap, Tailwind, Git, Mongo Db .<br><br>🌱 Current Learning<br>I’m currently diving into DSA in C++ .<br><br>📫 How to Reach Me<br>Feel free to connect with me on LinkedIn or check out my https://aman-rajput-portfolio.netlify.app/ !<br><br>🌟 Fun Fact<br>I think I am funny .
+💫 About Me:<br>👋 Hi there! I’m Aman Kumar, a passionate Software developer based in New Delhi. I love building Full Stack web applications and exploring new technologies.<br><br>🔧 Technologies & Tools<br>Languages: C, C++, JavaScript .<br>Frameworks: React, Node.js, Express.js .<br>Tools: BootsTrap, Tailwind, Git, Mongo Db .<br><br>🌱 Current Learning<br>I’m currently diving into DSA in C++ .<br><br>📫 How to Reach Me<br>Feel free to connect with me on LinkedIn or check out my https://aman-rajput-portfolio.netlify.app/ !<br><br>🌟 Fun Fact<br>I think I am funny .
 
 
 ## 🌐 Socials:
