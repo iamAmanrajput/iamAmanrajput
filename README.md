@@ -2,7 +2,7 @@
 ### **Passionate Software Developer | Full Stack Web Enthusiast**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Web+Developer;Passionate+about+Tech;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Web+Developer;Passionate+about+Tech;Always+Learning+New+Things" />
 </p>  
 
 ---
