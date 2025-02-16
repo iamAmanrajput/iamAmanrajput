@@ -1,8 +1,4 @@
-Here’s a **visually enhanced** and **well-structured** version of your GitHub profile README with **icons, better formatting, and animated elements** to make it more attractive!  
-
----
-
-# **🚀 Aman Kumar**  
+# 🚀 Aman Kumar  
 ### **Passionate Software Developer | Full Stack Web Enthusiast**  
 
 <p align="center">
@@ -11,10 +7,11 @@ Here’s a **visually enhanced** and **well-structured** version of your GitHub 
 
 ---
 
-## **🌟 About Me**  
-👋 Hey there! I’m **Aman Kumar**, a passionate **Software Developer** based in **New Delhi**. I love building **Full Stack Web Applications**, exploring new technologies, and solving problems with **Data Structures & Algorithms (DSA)**.  
+## 🌟 About Me  
+👋 Hey there! I’m **Aman Kumar**, a passionate **Software Developer** based in **New Delhi**.  
+I love building **Full Stack Web Applications**, exploring new technologies, and solving problems with **Data Structures & Algorithms (DSA)**.  
 
-🔥 **Currently Learning:**  
+🔭 **Currently Learning:**  
 - Mastering **Data Structures & Algorithms in C++**  
 - Enhancing my **Full Stack Development skills**  
 
@@ -27,13 +24,13 @@ Here’s a **visually enhanced** and **well-structured** version of your GitHub 
 I think I am **funny**, but my compiler doesn’t always agree 😆  
 
 📫 **Connect With Me:**  
-- 💼 **[LinkedIn](https://linkedin.com/in/aman-kumar-910843327/)**
-- 🌐 **[Portfolio](https://aman-rajput-portfolio.netlify.app/)**
+- 💼 **[LinkedIn](https://linkedin.com/in/aman-kumar-910843327/)**  
+- 🌐 **[Portfolio](https://aman-rajput-portfolio.netlify.app/)**  
 - 🐦 **[Twitter/X](https://x.com/Aman_Singh_2004)**  
 
 ---
 
-## **🌐 Socials**  
+## 🌐 Socials  
 <p align="center">
 <a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,21 +42,21 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 ---
 
-## **💻 Tech Stack**  
+## 💻 Tech Stack  
 
-### **🛠️ Languages & Frameworks**  
+### 🛠️ Languages & Frameworks  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
 </p>  
 
-### **⚙️ Tools & Platforms**  
+### ⚙️ Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>  
 
 ---
 
-## **📊 GitHub Stats**  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=radical&hide_border=false" width="49%" />
@@ -67,41 +64,47 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</p>  
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAmanrajput&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamAmanrajput&theme=radical&no-frame=false&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamAmanrajput&theme=react-dark" />
+</p>
 
 ---
 
-## **🚀 Fun Projects & Contributions**  
+## 🚀 Fun Projects & Contributions  
 💡 **Coming Soon!** (Open Source & Personal Projects)  
 
 ---
 
-## **👀 Profile Visits**  
+## 👀 Profile Visits  
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=iamAmanrajput&icon=5&color=1" />
 </p>  
 
 ---
 
-## **🎵 Random Dev Vibes**  
+## 🎵 Random Dev Vibes  
 🎶 **Listening To:** _Lo-Fi & Coding Music_  
 💻 **Favorite Code Editor:** _VS Code_  
 🚀 **Motto:** _Keep Learning, Keep Growing!_  
 
 ---
 
-## **💬 Let's Connect & Collaborate!**  
-💡 Open to **collaborations, projects, and learning together!** Feel free to **reach out** and let’s **build something amazing!** 🚀  
+## 💬 Let's Connect & Collaborate!  
+💡 Open to **collaborations, projects, and learning together!**  
+Feel free to **reach out** and let’s **build something amazing!** 🚀  
 
 ---
 
 💖 **Made with Passion by Aman Kumar**  
 
 ---
-
-## **✨ What’s New?**
-✅ **Better Styling**: Added **icons, emojis, and skill badges**  
-✅ **Enhanced Readability**: More **structured and clean layout**  
-✅ **More Personal Touch**: Fun facts, goals, and social links  
-
-Would you like **any additional features or improvements**? 🚀
