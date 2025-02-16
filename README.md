@@ -46,7 +46,7 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 ### 🛠️ Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,typescript,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
 </p>  
 
 ### ⚙️ Tools & Platforms  
@@ -82,13 +82,6 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 ## 🚀 Fun Projects & Contributions  
 💡 **Coming Soon!** (Open Source & Personal Projects)  
-
----
-
-## 👀 Profile Visits  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iamAmanrajput&icon=5&color=1" />
-</p>  
 
 ---
 
