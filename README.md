@@ -25,7 +25,7 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 📫 **Connect With Me:**  
 - 💼 **[LinkedIn](https://linkedin.com/in/aman-kumar-910843327/)**  
-- 🌐 **[Portfolio](https://aman-rajput-portfolio.netlify.app/)**  
+- 🌐 **[Portfolio](https://aman-rajput.vercel.app/)**  
 - 🐦 **[Twitter/X](https://x.com/Aman_Singh_2004)**  
 
 ---
