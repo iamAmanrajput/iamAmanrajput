@@ -1,69 +1,82 @@
-# 🚀 Aman Kumar  
-### **Passionate Software Developer | Full Stack Web Enthusiast**  
+# 🚀 Aman Kumar
+
+### **Full Stack Developer | Software Engineer | Tech Enthusiast**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Web+Developer;Passionate+about+Tech;Always+Learning+New+Things" />
-</p>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineer;Tech+Explorer;Lifelong+Learner" />
+</p>
 
 ---
 
-## 🌟 About Me  
-👋 Hey there! I’m **Aman Kumar**, a passionate **Software Developer** based in **New Delhi**.  
-I love building **Full Stack Web Applications**, exploring new technologies, and solving problems with **Data Structures & Algorithms (DSA)**.  
+## 👋 About Me  
 
-🔭 **Currently Learning:**  
-- Mastering **Data Structures & Algorithms in C++**  
-- Enhancing my **Full Stack Development skills**  
+I'm **Aman Kumar**, a passionate **Full Stack Developer** based in **New Delhi, India** 🇮🇳. I specialize in building modern, scalable web applications and have a strong foundation in **Data Structures & Algorithms (C++)**.  
 
-🎯 **Goals for 2025:**  
-- Contribute to **Open Source Projects**  
-- Build **Scalable Web Applications**  
-- Improve my **Problem-Solving Skills**  
-
-💡 **Fun Fact:**  
-I think I am **funny**, but my compiler doesn’t always agree 😆  
-
-📫 **Connect With Me:**  
-- 💼 **[LinkedIn](https://linkedin.com/in/aman-kumar-910843327/)**  
-- 🌐 **[Portfolio](https://aman-rajput.vercel.app/)**  
-- 🐦 **[Twitter/X](https://x.com/Aman_Singh_2004)**  
+💡 I enjoy turning complex problems into clean, efficient solutions — and I’m always striving to learn, build, and grow in the tech space.
 
 ---
 
-## 🌐 Socials  
-<p align="center">
-<a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/Aman_Singh_2004" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
-</p>  
+## 🎯 2025 Goals
+
+- 💻 Contribute to impactful **Open Source Projects**
+- 🚀 Build **Scalable Web Applications** that solve real-world problems
+- 🧠 Strengthen my **Problem-Solving** and **System Design** skills
 
 ---
 
-## 💻 Tech Stack  
+## 🔭 Currently Learning
 
-### 🛠️ Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,typescript,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
-</p>  
-
-### ⚙️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>  
+- Advanced **DSA with C++**
+- Building real-world apps with **Next.js**, **TypeScript**, and **MongoDB**
+- Exploring DevOps and deployment workflows
 
 ---
 
-## 📊 GitHub Stats  
+## 🧠 Fun Fact
+
+I believe I’m **funny**, but my compiler strongly disagrees. 😅
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Aman_Singh_2004" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://aman-rajput.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧰 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=radical&hide_border=false" width="49%" />
-</p>  
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&layout=compact&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
@@ -80,24 +93,30 @@ I think I am **funny**, but my compiler doesn’t always agree 😆
 
 ---
 
-## 🚀 Fun Projects & Contributions  
-💡 **Coming Soon!** (Open Source & Personal Projects)  
+## 🚧 Projects & Contributions
+
+👨‍💻 **Currently working on**: Real-world full stack apps, open source contributions, and passion projects.  
+🌟 **Projects Section Coming Soon** — Stay tuned!
 
 ---
 
-## 🎵 Random Dev Vibes  
-🎶 **Listening To:** _Lo-Fi & Coding Music_  
-💻 **Favorite Code Editor:** _VS Code_  
-🚀 **Motto:** _Keep Learning, Keep Growing!_  
+## 🎧 Dev Vibes
+
+- 🎵 **Now Playing:** Lo-Fi Coding Beats
+- 💻 **Editor of Choice:** VS Code
+- 🚀 **Motto:** *Keep Building. Keep Learning.*
 
 ---
 
-## 💬 Let's Connect & Collaborate!  
-💡 Open to **collaborations, projects, and learning together!**  
-Feel free to **reach out** and let’s **build something amazing!** 🚀  
+## 🤝 Let’s Connect & Collaborate
+
+I’m always open to **collaborations, hackathons, internships, and freelance opportunities**.  
+Let's learn and grow together — feel free to reach out!
 
 ---
 
-💖 **Made with Passion by Aman Kumar**  
+<p align="center">
+  💖 *Crafted with passion by Aman Kumar*
+</p>
 
 ---
