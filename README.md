@@ -54,14 +54,17 @@ I bridge the gap between complex algorithms and user-friendly web interfaces. Wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=radical&hide_border=false" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&layout=compact&hide_border=false" width="48%" />
+  <br />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAmanrajput&theme=radical" />
 </div>
 
 ---
