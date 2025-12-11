@@ -1,122 +1,75 @@
-# 🚀 Aman Kumar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aman%20Kumar&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source&descAlignY=55&descAlign=50" />
+</div>
 
-### **Full Stack Developer | Software Engineer | Tech Enthusiast**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineer;Tech+Explorer;Lifelong+Learner" />
-</p>
-
----
-
-## 👋 About Me  
-
-I'm **Aman Kumar**, a passionate **Full Stack Developer** based in **New Delhi, India** 🇮🇳. I specialize in building modern, scalable web applications and have a strong foundation in **Data Structures & Algorithms (C++)**.  
-
-💡 I enjoy turning complex problems into clean, efficient solutions — and I’m always striving to learn, build, and grow in the tech space.
-
----
-
-## 🎯 2025 Goals
-
-- 💻 Contribute to impactful **Open Source Projects**
-- 🚀 Build **Scalable Web Applications** that solve real-world problems
-- 🧠 Strengthen my **Problem-Solving** and **System Design** skills
-
----
-
-## 🔭 Currently Learning
-
-- Advanced **DSA with C++**
-- Building real-world apps with **Next.js**, **TypeScript**, and **MongoDB**
-- Exploring DevOps and deployment workflows
-
----
-
-## 🧠 Fun Fact
-
-I believe I’m **funny**, but my compiler strongly disagrees. 😅
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Efficient+Algorithms+in+C%2B%2B;Exploring+New+Technologies;Always+Learning,+Always+Coding" alt="Typing SVG" />
   </a>
-  <a href="https://x.com/Aman_Singh_2004" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://aman-rajput.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
+
+  <p>
+    <a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://aman-rajput.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+</div>
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Aman**, a passionate **Full Stack Developer** from **New Delhi, India** 🇮🇳.
+
+I bridge the gap between complex algorithms and user-friendly web interfaces. With a strong foundation in **Data Structures & Algorithms (C++)**, I focus on writing clean, efficient code that scales.
+
+> 💡 *"I believe I’m funny, but my compiler strongly disagrees."*
 
 ---
 
-## 💻 Tech Stack
+## 🚀 2025 Objectives
 
-### 🧰 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
+- 💻 Contribute to major **Open Source** repositories.
+- 🏗️ Master **System Design** and Microservices architecture.
+- ⚛️ Deep dive into **Next.js 16+** and Server Side Rendering.
+- 🧠 Solve 200+ problems on LeetCode/Geeksforgeeks.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=radical&hide_border=false" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&layout=compact&hide_border=false" width="49%" />
-</p>
+| **Frontend** | **Backend & DB** | **Languages & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" width="200" /> | <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,git,github,vscode,vercel" width="250" /> |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAmanrajput&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamAmanrajput&theme=radical&no-frame=false&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamAmanrajput&theme=react-dark" />
-</p>
+</div>
 
 ---
 
-## 🚧 Projects & Contributions
+## 📊 GitHub Analytics
 
-👨‍💻 **Currently working on**: Real-world full stack apps, open source contributions, and passion projects.  
-🌟 **Projects Section Coming Soon** — Stay tuned!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
 
----
+<br />
 
-## 🎧 Dev Vibes
-
-- 🎵 **Now Playing:** Lo-Fi Coding Beats
-- 💻 **Editor of Choice:** VS Code
-- 🚀 **Motto:** *Keep Building. Keep Learning.*
-
----
-
-## 🤝 Let’s Connect & Collaborate
-
-I’m always open to **collaborations, hackathons, internships, and freelance opportunities**.  
-Let's learn and grow together — feel free to reach out!
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+</div>
 
 ---
 
-<p align="center">
-  💖 *Crafted with passion by Aman Kumar*
-</p>
+## 🤝 Let's Connect
 
----
+I am open to **collaborations, hackathons, and internship opportunities**. If you have a project idea or just want to discuss the latest tech trends, feel free to reach out!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamAmanrajput&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
